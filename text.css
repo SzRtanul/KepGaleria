@@ -128,7 +128,7 @@ article {
 }
 
 footer {
-    grid-area: f;
+    grid-area: flex;
     text-align: center;
     background-color: gray;
     padding: 10px;
