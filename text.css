@@ -4,6 +4,33 @@
     box-sizing: border-box;
 }
 
+.flex-container{
+    display: flex;
+    height: 100vh;
+}
+
+.kep-bord{
+    display: flex;
+    height: 120px;
+    border: 1px solid black;
+}
+
+.kep{
+    height: 90%;
+    margin: auto;
+}
+
+.fokep-bord{
+    display: flex;
+    height: 600px;
+    border: 1px solid black;
+}
+
+.fokep{
+    height: 90%;
+    margin: auto;
+}
+
 main {
     max-width: 900px;
     width: 80%;
